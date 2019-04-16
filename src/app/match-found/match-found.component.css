@@ -1,0 +1,15 @@
+.box-value-container > .col-md-12{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box-value-container > .col-md-12 > div{
+    flex: 1;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.image img{
+    width: 80px;
+
+}
