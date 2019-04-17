@@ -7,6 +7,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 *{
     --blue:#E91E63;
     --dark-blue:#A90034;
+    --darker-blue:#574144;
     --light-blue:#E499A4;
     --lighter-blue:#FFE3EA;
     --light-gray:#aba9bb;
